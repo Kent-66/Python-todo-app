@@ -2,8 +2,9 @@
 Tkinter Todo Manager
 
 ## 概要
-PythonのGUIライブラリであるTkinterを使って作成したTodoアプリです。
-学習目的で作成しており、○○の理解を深めることを目的てしています。
+PythonのGUIライブラリであるTkinterを使って作成したTodoアプリです。  
+タスクの登録・一覧表示など、日々のタスク管理を簡単に行えるように設計しています。  
+学習目的で作成しており、Tkinterを使ったGUIレイアウトの基礎やPythonの基本文法、関数、制御構文などの理解を深めることを目的としています。
 
 ## 主な機能
 ・タスク追加  
@@ -15,8 +16,25 @@ PythonのGUIライブラリであるTkinterを使って作成したTodoアプリ
 ・Tkinter  
 
 ## 実行方法
+1.リポジトリをクローンする  
+GitHubからソースコードをダウンロードします。
+
+git clone https://github.com/Kent-66/Python-todo-app.git
+
+2.プロジェクトのフォルダに移動する
+
+cd Python-todo-app
+
+3.アプリを起動する  
+Python3.14がインストールされていることを確認し、以下のコマンドを実行します。
+
+todo-app.py
 
 ## ディレクトリ構成
+Python-todo-app  
+└── todo-app.py  
+└── README.md
+└── todo-operation.mp4
 
 ## 開発目的
 Pythonの学習を目的として、実際に使えるアプリケーションの開発に取り組みました。  
