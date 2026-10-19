@@ -33,7 +33,7 @@ todo-app.py
 ## ディレクトリ構成
 Python-todo-app  
 └── todo-app.py  
-└── README.md
+└── README.md  
 └── todo-operation.mp4
 
 ## 開発目的
